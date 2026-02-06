@@ -1,2 +1,3 @@
-# Prac 
-Main branch upda
+# GIt Prac
+
+Merged ReadMe Vers
